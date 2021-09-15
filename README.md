@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @brown-cats
 - 👀 I’m interested in CV
-- 🌱 I’m currently learning SR
+- 🌱 I’m currently learning Object detection and tracking
 - 💞️ I’m looking to collaborate on DL
-- 📫 How to reach me ...
+- 📫 How to reach me 21s151103@stu.hit.edu.cn
 
 <!---
 brown-cats/brown-cats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
