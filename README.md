@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Li Zhou
 - 👀 I’m interested in CV, Studied in HIT(ShenZhen)
-- 🌱 I’m currently learning Object detection and tracking
-- 💞️ I’m looking to collaborate on DL
-- 📫 How to reach me 21s151103@stu.hit.edu.cn
+- 🌱 I’m currently learning tracking and multi modailty learning.
+- 💞️ I’m looking to collaborate on Multi-modality learning, SOT, NLT.
+- 📫 How to reach me lizhou.hit@gmail
 
 <!---
 brown-cats/brown-cats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
